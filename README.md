@@ -31,4 +31,4 @@ Ready to explore the fascinating world of animals? Dive into the `list_of_animal
 License
 -------
 
-This repository is licensed under the [MIT](https://github.com/CovenantJunior/list_of_animals#MIT-1-ov-file) License, so feel free to use the data in accordance with the terms of the license.
+This repository is licensed under the [MIT License](https://github.com/CovenantJunior/list_of_animals#MIT-1-ov-file), so feel free to use the data in accordance with the terms of the license.
