@@ -6,7 +6,7 @@ Welcome to the Animal Encyclopedia Repository! This repository serves as a compr
 About the `list_of_animals.json` File
 -----------------------------
 
-The `list_of_animals.json` file is meticulously curated to provide accurate and informative descriptions of a wide range of animal species. Each entry in the JSON file includes the name of the animal, a detailed description, and a link to an image that showcases the beauty and uniqueness of the animal.
+The `list_of_animals.json` file is meticulously curated to provide accurate and informative descriptions of a wide range of animal species. Each entry in the JSON file includes the name of the animal, and a link to an image that showcases the beauty and uniqueness of the animal.
 
 Why Use the Animal Encyclopedia?
 --------------------------------
