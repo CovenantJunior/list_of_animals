@@ -1,5 +1,4 @@
 # Animal Encyclopedia Repository
-==============================
 
 Welcome to the Animal Encyclopedia Repository! This repository serves as a comprehensive collection of information about various animals from around the world. Inside this repository, you will find a JSON file named `list_of_animals.json` that acts as an encyclopedia, containing detailed entries for each animal.
 
